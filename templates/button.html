@@ -1,0 +1,113 @@
+<html>
+<head>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+body, html {
+  margin: 0;
+  padding: 0;
+  background: #ECF0F1;
+  font-family: "Fira Sans";
+  text-align: center;
+}
+body .canvas, html .canvas {
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 0px 20px 1px #bbb;
+}
+body .foot-wrapper, html .foot-wrapper {
+  color: #BFBFBF;
+  float: left;
+  poisition: absoulte;
+}
+body .foot-wrapper .footer, html .foot-wrapper .footer {
+  margin-top: 100vh;
+  margin-left: 20px;
+}
+
+.buttons {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  width: 200px;
+  height: 100px;
+  background: #F2385A;
+  position: relative;
+  margin: 30px;
+  top: 75px;
+  padding: 16px;
+  font-size: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 15px 0px 0px #f02046, 0px 0px 20px 0px #bbb;
+  transition: all 0.2s;
+}
+
+a:active {
+  top: 108px;
+  box-shadow: 0px 7px 0px 0px #f02046;
+}
+
+.button1 {
+  background-color: #F2385A;
+}
+
+.button2 {
+  background-color:#0a2ce7;
+  box-shadow: 0px 15px 0px 0px #4638c7;
+}
+.button2:active {
+  box-shadow: 0px 7px 0px 0px #258cd1;
+}
+
+body {
+  background:url({{ url_for('static',filename='image1.jpg')}});
+  background-position: 100% 100%;
+  background-repeat: no repeat;
+}
+.headingText {
+    
+    font-size: 70px;
+    font-weight: 200;
+    
+}
+.headingText, .subHeading2Text {
+    
+    font-family: Times New Roman,Helvetica,Arial,sans-serif;
+    color: rgb(0, 0, 0)!important;
+    font-style: normal;
+}
+body{
+   width: 100%:
+}
+
+</style>
+<link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+<body>
+<!--.canvas-->
+<br>
+<br>
+<br>
+<h1 class="headingText">How Much Are Your Grades Worth?</h1>
+<h1 class="subHeading2Text">Receive a personalized Package estimate based on your academic history to better understand your true market value.</h1>
+<!--<image src="{{ url_for('static',filename='image1.jpg')}}"></image>-->
+
+
+<div class="buttons">
+  <a class="button1" href={{url_for('regular_student')}}>REGULAR STUDENT</a>
+  <a class="button2" href={{url_for('diploma_student')}}>DIPLOMA STUDENT</a></div>
+<!-- Footer-->
+</div>
+
+</body>
+</html>

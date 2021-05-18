@@ -1,0 +1,82 @@
+First Name,Last Name,College Roll No.,Percentage (X),Percentage (XII),Percentage (Diploma),B.E. Sem 1 CGPA,B.E. Sem 2 CGPA,B.E. Sem 3 CGPA,B.E. Sem 4 CGPA,B.E. Sem 5 CGPA,B.E. Sem 6 CGPA,B.E. Sem 7 CGPA,B.E. Sem 8 CGPA,B.E. CGPA,Year Drop,Number of Workshop Attended,Number of Workshop Organised,Worked as Resource Person for Workshop,Number of Project Developed,Number of Internship Completed,Department,Contact No.,Email address,1st Offer,Package
+Chitra,Saraf,17CE5501,90,0,81.13,0,0,6.7,8,8.6,8,8.9,0,8.03,0,3,1,No,2,0,Computer Engineering,7756008919,saraf.chitra.17ce5501@gmail.com,JIO MEDIA,
+Deepali,Mokal,17CE5511,73.6,0,76.41,0,0,5.7,6.2,7,6.9,7.7,0,6.69,0,3,1,No,2,0,Computer Engineering,9326959037,mokal.deepali.17ce5511@gmail.com,SMOLLAN,
+Digvijay,Redekar,17CE5017,81.4,0,85.19,0,0,6.1,6,6.8,6.5,0,0,6.35,0,4,1,No,2,0,Computer Engineering,9167552171,redekar.digvijay.17ce5017@gmail.com,NSEIT,3.5
+Faraz,Khan,17CE5508,73.2,0,82.12,0,0,7.1,5.7,7.6,7.2,6.8,0,6.88,0,3,1,No,2,0,Computer Engineering,9833706958,farazrk001@gmail.com,TCS NINJA,3.3
+Harsha,Mane,17CE5510,77,0,68.65,0,0,6.1,7,7.1,7,0,0,6.79,0,2,0,No,2,0,Computer Engineering,7028251380,mane.harsha.17ce5510@gmail.com,BIRLASOFT,3.25
+Hitesh,Sonar,17CE5020,89,0,83.44,0,0,7.4,7.4,8,6.8,8,9.5,7.84,0,5,1,Yes,4,1,Computer Engineering,9004285483,sonar.hitesh.17ce5020@gmail.com,LTI DREAM,5
+Komal,Sonawane,17CE5012,76.8,0,85.3,0,0,5.9,6.7,7,7.2,7.7,7.7,7.03,0,3,1,No,2,0,Computer Engineering,9930788401,sonawane.komal.17ce5012@gmail.com,MACS-G,
+Manan,Shah,17CE5015,78.6,0,88.35,0,0,6.4,6.9,8.6,8.3,7.8,0,7.59,0,3,1,No,2,0,Computer Engineering,7021840312,shah.manan.17ce5015@gmail.com,TOPPR,3
+Manjiri,Deshmukh,17CE5014,91.4,0,83.94,0,0,8.8,9,9,8.3,0,0,8.78,0,3,1,No,2,0,Computer Engineering,7303669494,deshmukh.manjiri.17ce5014@gmail.com,TCS NINJA,3.3
+Mrunali,Wani,17CE5504,90.4,0,81.19,0,0,6.9,7.2,8.2,6.8,7.2,0,7.26,0,3,1,No,2,0,Computer Engineering,9112653816,wani.mrunali.17ce5504@gmail.com,UBISOFT,
+Owais,Khan,17CE5513,81.8,0,84.63,0,0,9.5,8.7,8.8,0,0,0,9.01,0,5,2,Yes,4,2,Computer Engineering,9167543248,khan.owais.17ce5513@gmail.com,TIAA,7
+Pooja,Patel,17CE5018,88.2,0,85.94,0,0,8,8.4,8.5,8.6,8.5,0,8.4,0,3,1,No,2,0,Computer Engineering,7738192595,patel.pooja.17ce5018@gmail.com,TCS NINJA,3.3
+Prasad,Bhoir,17CE5021,79.45,0,82.06,0,0,6,6.6,7.7,7.1,7.6,10,7.5,0,4,1,No,2,0,Computer Engineering,9870842704,bhoir.prasad.17ce5021@gmail.com,INFOSYS(SE),3.6
+Rachana,Dubey,17CE5016,87.8,0,94.5,0,0,7.5,8,9.3,9.2,8.8,0,8.56,0,3,1,No,2,0,Computer Engineering,9892088236,dubey.rachana17CE5016@gmail.com,TCS NINJA,3.3
+Rathod,Jitendrasingh,17CE5007,81.6,0,87,0,0,7.6,9.2,8.8,7.3,7.4,10,8.38,0,3,1,No,2,0,Computer Engineering,8104127445,rathod.priyanka.17ce5007@gmail.com,TCS NINJA,3.3
+Ravina,Nara,17CE5506,75,0,85.29,0,0,5.8,7,7.2,7.5,7,9.5,7.34,0,2,0,No,2,0,Computer Engineering,9702809912,nara.ravina.17ce5506@gmail.com,BIRLASOFT,3.25
+Rhutuja,Satpute,17CE5505,80.4,0,80,0,0,6.5,6.6,7.1,6.9,6.5,0,6.71,0,5,2,Yes,4,3,Computer Engineering,9082046441,satpute.rhutuja.17ce5505@gmail.com,Byjus,9
+Rukhsar,Kazi,17CE5005,87,0,85.94,0,0,8,8.8,8.9,9.5,9,9.9,9.01,0,4,1,No,2,0,Computer Engineering,8767501518,kazi.rukhsar.17ce5005@gmail.com,LTI,3.5
+Rushikesh,Kulat,17CE5502,85.4,0,84.81,0,0,6.9,6.9,8.8,7.5,8.5,0,7.71,0,3,1,No,2,0,Computer Engineering,9082756783,kulat.rushikesh.17ce5502@gmail.com,TCS NINJA,3.3
+Shweta,Waghmare,17CE5507,86.73,0,79.9,0,0,5.4,7,7.3,6.9,7.9,9.9,7.4,0,3,1,No,2,0,Computer Engineering,8850374684,waghmare.shweta.17ce5507@gmail.com,UBISOFT,
+Smita,Sontakke,17CE5019,83.4,0,86.65,0,0,9.2,9,9.3,8.9,9.3,0,9.14,0,4,1,No,3,0,Computer Engineering,9167136242,sontakke.smita.17ce5019@gmail.com,CAPGEMINI,3.8
+Tanuja,Sawant,17CE5003,76.8,0,79.18,0,0,6.3,6.7,7.7,7.2,7,0,6.98,0,2,0,No,2,0,Computer Engineering,9702687679,sawant.tanuja.17ce5003@gmail.com,BIRLASOFT,3.25
+Tejal,Kawale,17CE5010,74.8,0,90.56,0,0,7.3,7.9,7.7,8.5,8.4,0,7.95,0,3,1,No,2,0,Computer Engineering,7738435840,kawale.tejal.17ce5010@gmail.com,TCS NINJA,3.3
+Umesh,Patil,17CE5013,83.2,0,83.63,0,0,5.7,6.9,7.4,6.8,6.9,9.7,7.23,0,4,1,No,2,0,Computer Engineering,7977499195,patil.umesh.17ce5013@gmail.com,INFOGAIN,3.5
+Zahir,Shaikh,17CE5514,79.64,0,83.74,0,0,6.4,6.5,7.3,8.1,7.4,9.4,7.51,0,4,1,No,2,0,Computer Engineering,8879289798,shaikh.zahir.17ce5514@gmail.com,Reliance JIO (Bond),3.5
+Ashwini,Patil,17IT5011,84.5,0,85.3,0,0,8.2,7.8,8,8,7.9,0,7.98,0,3,1,No,2,0,Information Technology Engineering,9702516910,patil.ashwini.17it5011@gmail.com,TCS NINJA,3.3
+Gauri,Kadam,17IT5020,94,0,87,0,0,8.9,9.2,9.2,8.4,7.9,0,8.72,0,3,1,No,2,0,Information Technology Engineering,9833046923,kadam.gauri.17it5020@gmail.com,TCS NINJA,3.3
+Imran,Shaikh,17IT5026,76,0,85.65,0,0,9.4,9.2,9.5,9.5,8.6,0,9.24,0,3,1,No,2,0,Information Technology Engineering,7021242658,shaikh.imran.17it5026@gmail.com,TCS NINJA,3.3
+Kirti,Hirnak,17IT5014,87.6,0,80.87,0,0,6.8,6.7,6.5,6.5,7.4,9,7.14,0,3,1,No,2,0,Information Technology Engineering,9224928628,hirnak.kirti.17it5014@gmail.com,UBISOFT,
+Kizhupully,Anandan,17IT5008,84.4,0,84.59,0,0,7.7,7.4,6.9,7.7,7.7,0,7.47,0,3,1,No,2,0,Information Technology Engineering,9987703727,kizhupully.arshida.17it5008@gmail.com,Tech Mahindra,
+Minakshee,Waghmare,17IT5019,92.8,0,80,0,0,8.2,8.3,8.7,7.7,8.1,9.9,8.49,0,4,1,No,2,0,Information Technology Engineering,7039922817,waghmare.minakshee.17it5019@gmail.com,INFOGAIN,3.5
+Mitali,Chikhale,17IT5005,90,0,85.29,0,0,8.8,9.2,8.1,8.5,0,0,8.64,0,3,1,No,2,0,Information Technology Engineering,9004480715,chikhale.mitali.17it5005@gmail.com,TCS NINJA,3.3
+Pooja,Shivale,17IT5002,89.2,0,84.41,0,0,8.5,7.7,8.2,0,0,0,8.11,0,3,1,No,2,0,Information Technology Engineering,9987157035,shivale.pooja.17it5002@gmail.com,TCS NINJA,3.3
+Pratik,Dighe,17IT5007,83.67,0,86.94,0,0,8.3,7.6,8,8.4,8.5,0,8.17,0,3,1,No,2,0,Information Technology Engineering,9930737401,dighe.pratik.17it5007@gmail.com,TCS NINJA,3.3
+Renuka,Jadhav,16IT5019,72.8,0,75.59,0,0,6,6.1,7.2,6.9,7.8,8.2,7.03,1,3,1,No,2,0,Information Technology Engineering,9049656252,renuka24jadhav@gmail.com,Qspiders,
+Riddhi,Sonkar,17IT5004,77,0,79.76,0,0,7.4,7.6,7.4,7.5,7.8,0,7.53,0,4,1,No,2,0,Information Technology Engineering,8879392364,sonkar.riddhi.17it5004@gmail.com,Reliance JIO (Bond),3.5
+Sagar,Chandanshive,17IT5016,83.4,0,76.19,0,0,5.4,6.6,6.5,7,7.4,9.6,7.08,0,3,1,No,2,0,Information Technology Engineering,7900148970,chandanshive.sagar.17It5016@gmail.com,Tech Mahindra,
+Saurabh,Dhule,17IT5017,85.2,0,85.59,0,0,8.7,8.4,7.7,8.3,0,0,8.28,0,4,1,No,2,0,Information Technology Engineering,7057771113,dhule.saurabh.17IT5017@gmail.com,LTI,3.5
+Surajkumar,Prajapati,17IT5009,90.2,0,85.71,0,0,8.7,8.7,8.7,8,7.4,0,8.3,0,3,1,No,2,0,Information Technology Engineering,7506547477,prajapati.surajkumar.17it5009@gmail.com,TCS NINJA,3.3
+Swaleha,Khan,17IT5010,94.6,0,86,0,0,9.4,9.1,8.5,8.3,8.1,0,8.68,0,4,1,No,2,0,Information Technology Engineering,9773161258,khan.swaleha.17it5010@gmail.com,LTI,3.5
+Vishal,Bhopi,17IT5012,83,0,85.35,0,0,8,7.9,8.3,8.6,8.6,10,8.56,0,4,1,No,2,0,Information Technology Engineering,8329836829,bhopi.vishal.17it5012@gmail.com,INFOGAIN,3.5
+Amit Singh,Labana,17EE5057,80.2,0,72.47,0,0,6.2,7.1,5.6,7.6,7.4,0,6.78,0,3,1,No,2,0,Electronics Engineering,9921519082,labana.amit.17ee5057@gmail.com,UBISOFT,
+Aniket,Patil,17EE5006,80.4,0,81.31,0,0,6.9,7.4,7.1,8,7.5,0,7.39,0,3,1,No,2,0,Electronics Engineering,9619592918,patil.aniket.17ee5006@gmail.com,UBISOFT,
+Arya,Mishra,17EE5502,83,0,72.41,0,0,5.4,5.5,5.9,6.2,6.8,9.8,6.6,0,1,0,No,1,0,Electronics Engineering,9987484327,mishra.arya.17EE5502@gmail.com,TOPPR,3
+Chinmay,Jadhav,17EE5016,75.8,0,79.49,0,0,6.7,6.5,6.4,6.8,7.1,0,6.7,0,5,1,Yes,4,1,Electronics Engineering,8806411623,jadhav.chinmay.17EE5016@gmail.com,Infosys(SES),5
+Dhanashree,More,17EE5028,81.2,0,77.76,0,0,5.5,5.5,5.4,5.3,0,0,5.43,0,1,0,No,1,0,Electronics Engineering,9967026494,more.dhanashree.17ee5028@gmail.com,TOPPR,3
+Junaid,Shaikh,17EE5049,81.2,0,79.29,0,0,8,8.5,8,7.9,6.8,0,7.83,0,3,1,No,2,0,Electronics Engineering,9167178956,shaikh.junaid.17ee5049@gmail.com,TCS NINJA,3.3
+Nimish,Randive,17EE5043,72.4,0,62.73,0,0,6.1,5.2,5.8,7.1,7.8,9.7,6.95,0,3,1,No,2,0,Electronics Engineering,8850649184,randive.nimish.17ee5043@rait.ac.in,UBISOFT,
+Omkar,Patil,17EE5008,91,0,77.88,0,0,7.9,7.8,7.8,8.2,7.5,0,7.84,0,3,1,No,2,0,Electronics Engineering,7030193372,patil.omkar.17ee5008@gmail.com,TCS NINJA,3.3
+Pooja,Shinde,17EE5517,86.6,0,72.4,0,0,5.6,6,6.8,7,8.1,0,6.7,0,3,1,No,2,0,Electronics Engineering,8689801207,shinde.pooja.17ee5517@gmail.com,CAPGEMINI 2,
+Priyanka,Muley,17EE5038,88.73,0,78,0,0,5.8,6.1,6,6.2,7.7,0,6.36,0,3,1,No,2,0,Electronics Engineering,9930331206,muley.priyanka.17ee5038@gmail.com,MACS - G,
+Rushikesh,Sawant,17EE5020,90.8,0,79.6,0,0,6.4,6,7.2,7.9,0,0,6.87,0,2,0,No,2,0,Electronics Engineering,7021539340,sawant.rushikesh.17ee5020@gmail.com,BIRLASOFT,3.25
+Shreya,Nikumbh,16EE1033,81.8,0,72.61,0,0,5,5.4,5.3,5.1,6,9.8,6.1,1,3,1,No,2,0,Electronics Engineering,9867892837,nikumbh.shreya.16EE1033@gmail.com,TCS NINJA,3.3
+Sudhir,Logade,17EE5055,82.8,0,83.49,0,0,6.7,6.9,7.1,7,6.9,0,6.92,0,3,1,No,2,0,Electronics Engineering,9702892093,logade.sudhir.17ee5055@gmail.com,TCS NINJA,3.3
+Sumit,Pardule,17EE5002,83.6,0,74.51,0,0,6.3,6.7,7.2,8.2,7.8,0,7.23,0,3,1,No,2,0,Electronics Engineering,7045591264,pardule.sumit.17ee5002@gmail.com,UBISOFT,
+Swapnil,More,17EE5048,83.2,0,75.06,0,0,5.4,5.4,5.5,5.6,6.7,0,5.72,0,4,1,No,2,0,Electronics Engineering,9689790587,more.swapnil.17ee5048@gmail.com,NSEIT,3.5
+Tanvi,Gaikwad,16EE5016,82.8,0,69.41,0,0,6,5.9,6.1,6,7.4,0,6.28,1,3,1,No,2,0,Electronics Engineering,7756899482,gaikwad.tanvi.16ee5016@gmail.com,HEXAWARE,
+Tushar,Patil,17EE5070,86.4,0,73.76,0,0,6.5,5.8,5.5,6.8,7.4,0,6.41,0,3,1,No,2,0,Electronics Engineering,8879047494,patil.tushar.17ee5070@gmail.com,UBISOFT,
+Aditi,Salunke,17ET5004,76.2,0,84,0,0,7.5,6.3,8.4,7.9,8.1,0,7.64,0,3,1,No,2,0,Electronics & Telecommunication Engineering,8779543571,salunke.aditi.17et5004@gmail.com,TCS NINJA,3.3
+Atharva,Bhere,17ET5056,84,0,75.71,0,0,6.6,5.9,7.2,6.8,7.4,0,6.77,0,4,1,No,2,0,Electronics & Telecommunication Engineering,8879091494,bhere.atharva.17et5056@gmail.com,Reliance JIO (Bond),3.5
+Diksha,Shinde,17ET5038,80,0,85.76,0,0,7.7,7.8,8.4,8.2,8.5,0,8.13,0,3,1,No,2,0,Electronics & Telecommunication Engineering,8169361001,shindediksha22@gmail.com,TCS NINJA,3.3
+Greeshma,Timmanpyati,17ET5052,73.8,0,75,0,0,5.5,5.5,5.4,6.2,7.1,0,5.95,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9004068073,timmanpyati.greeshma17ET5052@gmail.com,UBISOFT,
+Kasturi,Panchal,17ET5022,90.8,0,84.69,0,0,8.4,6.9,8.7,8.6,8.4,0,8.2,0,3,1,No,2,0,Electronics & Telecommunication Engineering,8291091911,panchal.kasturi.17et5022@gmail.com,TCS NINJA,3.3
+Nirant,Bendale,17ET5015,84.4,0,82.4,0,0,7.1,6.9,7.8,7.4,7.4,0,7.31,0,3,1,No,2,0,Electronics & Telecommunication Engineering,8898761933,bendale.nirant.17et5015@gmail.com,UBISOFT,
+Runali,Painaik,17ET5509,78.4,0,75,0,0,5.7,6.2,6.6,7.1,7.3,0,6.58,0,3,1,No,2,0,Electronics & Telecommunication Engineering,8291684040,painaik.runali.17et5509@gmail.com,UBISOFT,
+Rupesh,Patil,17ET5046,60.4,0,78.41,0,0,6.4,6,5,5.2,0,0,5.65,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9987828308,patil.rupesh.17et5046@gmail.com,UBISOFT,
+Rutuja,Tandel,17ET5002,69.2,0,75.24,0,0,7.4,7.2,8.4,8.2,0,0,7.81,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9619132899,tandel.rutuja.17et5002@gmail.com,TCS NINJA,3.3
+Saira,Khan,17ET5025,91,0,82.93,0,0,8.2,7.9,8.8,7.9,8.9,10,8.62,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9082614859,khan.saira.17et5025@gmail.com,UBISOFT,
+Sana,Syed,17ET5003,83,0,92.88,0,0,8.6,8.4,9,7.9,0,0,8.48,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9594415371,syed.sana.17et5003@gmail.com,TCS NINJA,3.3
+Sheetal,Musterya,17ET5011,90,0,86.35,0,0,7.9,6.3,7.5,6.6,0,0,7.07,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9594904248,smusterya1999@gmail.com,CONVONIX,
+Swarupa,Omergekar,17ET5023,85.6,0,81.83,0,0,6.9,6,5.7,6.8,6.1,0,6.3,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9769401208,omergekar.swarupa.17et5023@gmail.com,UBISOFT,
+Vaishali,Kshirsagar,17ET5005,83.8,0,78.82,0,0,6.8,6.4,7,7.3,7.9,10,7.57,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9987595413,kshirsagar.vaishali.17et5005@gmail.com,StockHolding,
+Vijeta,Uppal,17ET5027,82.2,0,86.18,0,0,7.1,6.7,6.9,7.7,7.4,9.8,7.6,0,4,1,No,2,0,Electronics & Telecommunication Engineering,7718008494,uppal.vijeta.17et5027@gmail.com,Reliance JIO (Bond),3.5
+Zulfikar Ali,Shaikh,17ET5506,73.8,0,79.76,0,0,6.4,6.4,7.2,7.6,8,10,7.6,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9930260624,shaikh.zulfikarali.17et5506@gmail.com,TCS NINJA,3.3
+Ekta,Pingale,17ET5029,85.4,0,87.35,0,0,7.1,6.6,8.2,7.2,7.2,9.8,7.69,0,3,1,No,2,0,Electronics & Telecommunication Engineering,9326855253,pingale.ekta.17et5029@gmail.com,Anlage,
+Swaranjali,Jadhav,17ET5513,80.2,0,82.29,0,0,6.7,6.1,6.6,6.9,6.8,9.8,7.15,0,3,1,No,2,0,Electronics & Telecommunication Engineering,7039436316,jadhav.swaranjali.17ET5513@gmail.com,Anlage,
+Adarsh,Kap,17IN5021,85.6,0,76.6,0,0,6.9,7.4,8.4,8.9,9,10,8.43,0,3,1,No,2,0,Instrumentation Engineering,9623890331,kap.adarsh.17in5021@gmail.com,TCS NINJA,3.3
+Mohd. Arhaam,Shaikh,17IN5027,69.4,0,74,0,0,5.7,6.3,6.4,6.4,7,0,6.36,0,3,1,No,2,0,Instrumentation Engineering,9619576635,arhamshaikh82@gmail.com,UBISOFT,
+Prasad,Pendse,17IN5026,83.8,0,73.4,0,0,6.8,7.2,7.5,6.9,7.8,0,7.24,0,3,1,No,2,0,Instrumentation Engineering,9665152554,pendse.prasad.17in5026@gmail.com,TCS NINJA,3.3
+Sampada,Pathak,17IN5014,85,0,72.1,0,0,7.6,7.2,7.5,7.6,7.9,9.8,7.94,0,3,1,No,2,0,Instrumentation Engineering,7506128408,pathak.sampada.17in5014@gmail.com,WORLEY,
+Smita,Patil,17IN5004,91.8,0,84.29,0,0,8.1,8,9.1,9.3,8.8,9.7,8.83,0,3,1,No,2,0,Instrumentation Engineering,7744088539,patil.smita.17in5004@gmail.com,WORLEY,
